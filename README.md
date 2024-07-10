@@ -45,9 +45,20 @@ elibrary(영원한도서관)는 전자도서관을 구축하고 사용자가 대
 
 ## 4. 기여내용
 - ERD 다이어그램 작성, 프로젝트 테이블 구성 계획
+![elibrary_ERD](https://github.com/EastCanyon/elibrary/blob/main/elibrary_ERD.png)
+
 - 일반회원 회원가입, 로그인, 회원탈퇴 기능 구현
+![elibrary_signup](https://github.com/EastCanyon/elibrary/blob/main/elibrary_signup.png)
+![elibrary_login](https://github.com/EastCanyon/elibrary/blob/main/elibrary_login.png)
+![elibrary_delete](https://github.com/EastCanyon/elibrary/blob/main/elibrary_delete.png)
+
 - 도서 대출연장 및 자동 반납 기능 구현
+![elibrary_borrow1](https://github.com/EastCanyon/elibrary/blob/main/elibrary_borrow1.png)
+![elibrary_borrow2](https://github.com/EastCanyon/elibrary/blob/main/elibrary_borrow2.png)
+![elibrary_borrow3](https://github.com/EastCanyon/elibrary/blob/main/elibrary_borrow3.png)
+
 - KDC 분류별 도서 조회 기능
+![elibrary_KDC](https://github.com/EastCanyon/elibrary/blob/main/elibrary_KDC.png)
 
 
 ## 신경쓴 부분
